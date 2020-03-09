@@ -1,0 +1,23 @@
+.bodyscroll { SCROLLBAR-FACE-COLOR: #BCAE94; SCROLLBAR-HIGHLIGHT-COLOR: #BCAE94; 
+SCROLLBAR-SHADOW-COLOR: #BCAE94; SCROLLBAR-3DLIGHT-COLOR:#BCAE94; SCROLLBAR-ARROW-COLOR: 
+#FFFFFF; SCROLLBAR-TRACK-COLOR: #BCAE94; SCROLLBAR-DARKSHADOW-COLOR:#BCAE94; } 
+.enlaceconstiloHOVER:hover{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #CCC;
+} .enlaceconstiloHOVER2{ font-family: "Courier 
+New", Courier, mono;
+	font-size: 14px;
+	font-style: normal;
+	text-decoration: none;
+	color: #CCCCCC;
+} .enlaceconstiloHOVER2:hover{
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #CCC;
+	font-family: Georgia, "Times New Roman", Times, serif;
+} .enlaceconstiloHOVER3:hover{ 
+font-family: "Courier New", Courier, mono; font-size: 12px; font-style: normal; 
+font-weight: bold; color: #FF00FF; } 

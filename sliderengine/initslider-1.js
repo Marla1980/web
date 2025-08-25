@@ -23,7 +23,7 @@ jQuery(document).ready(function(){
         addmargin:true,
         watermarklinkcss:"text-decoration:none;font:12px Arial,Tahoma,Helvetica,sans-serif;color:#333;",
         watermarktext:"amazingslider.com",
-        watermarklink:"http://amazingslider.com?source=watermark",
+        watermarklink:"https://amazingslider.com?source=watermark",
         transitiononfirstslide:false,
         forceflash:false,
         isresponsive:true,
